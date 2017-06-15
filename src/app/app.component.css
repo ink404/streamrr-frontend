@@ -1,0 +1,16 @@
+.navbar{
+  margin-bottom: 0;
+  text-align: center;
+}
+.nav>li>a{
+  padding: 20px;
+  font-size: 1.3em;
+}
+.navbar-form{
+  margin-left: 73%;
+  margin-top: 20px;
+}
+.form-control{
+  border-radius: 0px;
+  font-size: 1.5em;
+}
